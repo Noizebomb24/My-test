@@ -1,6 +1,8 @@
-        "name": "Database Configurations",
-        "components": {
-                "postgresql": "13.3",
-                "sqlalchemy": "1.4.25",
-                "alembic": "1.7.0"
-        }
+{
+    "name": "Database Configurations",
+    "components": {
+        "postgresql": "13.3",
+        "sqlalchemy": "1.4.25",
+        "alembic": "1.7.0"
+    }
+}
